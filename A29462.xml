@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Brief narration of the imprisonment of Mr. Francis Bampfield ... with Mr. Phillips (his assistant) being now both turn'd out for their non-conformity : as also the imprisoning of several of the inhabitants who came to hear him exercise at his own house, September the 19, 1662 ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29462</idno>
+            <idno type="STC">Wing B4608</idno>
+            <idno type="STC">ESTC R17716</idno>
+            <idno type="EEBO-CITATION">12395288</idno>
+            <idno type="OCLC">ocm 12395288</idno>
+            <idno type="VID">61131</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29462)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61131)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 271:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Brief narration of the imprisonment of Mr. Francis Bampfield ... with Mr. Phillips (his assistant) being now both turn'd out for their non-conformity : as also the imprisoning of several of the inhabitants who came to hear him exercise at his own house, September the 19, 1662 ...</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bampfield, Francis, 1615 or 16-1683.</term>
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61131:1"/>
+            <pb facs="tcp:61131:1"/>
+            <p>A BRIEF NARRATION OF THE IMPRISONMENT OF M<hi rend="sup">r.</hi> 
+               <hi>FRANCIS BAMPFIELD,</hi> A Pious and Loyall Miniſter late of <hi>Sherburn</hi> in <hi>Dorcetſhire.</hi>
+            </p>
+            <p>With Mr. <hi>Phillips</hi> (his Aſſiſtant) being now both turn'd out for their <hi>Non-Conformity,</hi>
+            </p>
+            <p>As alſo The Impriſoning of ſeveral of the Inhabitants who came to hear him Exerciſe at his own houſe, <hi>September the</hi> 19. 1662.</p>
+            <p>Together with The manner of their carrying away, and hard uſage when they were in Priſon.</p>
+            <p>Printed in the year, 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:61131:2"/>
+            <pb n="3" facs="tcp:61131:2"/>
+            <head>A Brief NARRATION Of the Impriſonment of Mr. FRANCIS BAMPFIELD, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>'<seg rend="decorInit">T</seg>Is poſſible the ſmall affairs of this Town may go far, and be miſ-repreſented; to the end you may be truly, and (as far as I could learn) fully informed, you have this Narrative, which I had from eye and ear-witneſſes of the whole. My ſelf was preſent only part of one day, <hi>viz.</hi> at the paying off the Bill, whereof more anon. That you may the better conſider of the whole, you may underſtand, that Mr. <hi>Francis Bampfield,</hi> ſome years ſince, was long and ear<g ref="char:EOLhyphen"/>neſtly ſolicited by the Town of <hi>Sherborn</hi> to ſucceed Mr. <hi>Lyford</hi> (a very Reverend and Loyal Miniſter deceaſed) in the Vica<g ref="char:EOLhyphen"/>ridge of that place; and beſides other Reaſons, they were eſpecially importunate with him for this, <hi>viz.</hi> his loyalty to the King, (for you muſt know that this Town has been noto<g ref="char:EOLhyphen"/>rious for their Loyalty) whoſe Cauſe he conſtantly aſſerted un<g ref="char:EOLhyphen"/>der all the changes to the laſt, as it is in theſe parts generally known, and what he ſuffered upon that account, and was alſo a painful Preacher of the Word, which two, it ſeems by
+<pb n="4" facs="tcp:61131:3"/>him for one (amongſt many others) are things conſiſtent, <hi>viz.</hi> Piety and Loyalty. This Mr. <hi>Bampfield</hi> continued ſome years amongſt this People, inſtant in his work, and was, as I have heard and do believe, utterly unſatisfied in conſcience with the conditions required by the late Act for uniformity: whereupon he (as many other good men beſide, which many every where, as far as I can learn, do moſt ſadly lament) The Lords day before <hi>Bartholomew</hi> day laſt took his ſolemn leave of his people; at which (as I hear, for I was not preſent) there were a great Church full of weeping eies, and ſad hearts, though ſome it may be ſecretly rejoyced, (for ſo goes the World now adaies) and in a ſhort time after he removed himſelf and Family to another hired houſe in the Town, where for the moſt part he has continued ever ſince, till <hi>Fri<g ref="char:EOLhyphen"/>day</hi> laſt, being the 19th of <hi>September,</hi> when in the evening he was in his houſe, and with his Family praying, and opening and applying of a Scripture, (as his manner was for ſome years before he came to <hi>Sherborn,</hi> which my ſelf have ſome<g ref="char:EOLhyphen"/>times heard) which was at this time, 1 <hi>Theſſ.</hi> 1.5, 6, 7. whence he had this Obſervation: <hi>That way the Devil and his Inſtru<g ref="char:EOLhyphen"/>ments take to hinder Grace, God will wiſely over-rule to further it.</hi> To this work divers of the Town came and took their part, (as all other good Subjects and good Chriſtians, as I ſhould judge, if they might would do; for certainly one may ſerve God and be a good Subject, whatever ſome may think) and whilſt he and his Neighbours were attentive at this Exerciſe, in comes one <hi>Sugar</hi> with other Soldiers (a man noted for no great baſhfulneſs or ſobriety, but it ſeems one that would ſerve for ſuch a purpoſe) and required them all in the Kings name (I am ſorry any ſhould abuſe it to ſuch a purpoſe) to be ſilent, and depart the Room; which, as bold as he was, he did not without ſo great conſternation upon himſelf, ſpeaking a word in a breath, as was much obſerved by many.</p>
+            <p>Now you muſt know, that ſome time before this, ſome were ſent to two of the Deputy Lieutenants of the County, to know whether the courſe of Duty uſed in Mr. <hi>Bampfield</hi>'s Family were conceived by them to be againſt Law, and if ſo,
+<pb n="5" facs="tcp:61131:3"/>that they would deſiſt; but without any anſwer, one <hi>Thornton</hi> of this Town, an <hi>Apothecary,</hi> who came in with <hi>Sugar,</hi> ſaid he had a Warrant from the Deputy Lieutenants to ſerve upon Mr. <hi>Brampfield</hi> and Mr. <hi>Phillips</hi> his Aſſiſtant, and ten more of the chiefeſt that were there, (a rare preſident to leave it to under-Officers to inſert whom they pleaſe as the chiefeſt, and ſo to wreak their malice) and thereupon took the Miniſters, (I do not reckon the interruption of the Duty) and about five and twenty more (for to ſo many were the ten preſently grown) and carried them (all men, what reaſon priviledg'd the women I know not) to priſon, to the Provoſt-Marſhal, (an Officer that <hi>Magna Charta</hi> has no ac<g ref="char:EOLhyphen"/>quaintance with) in the ſame Town, where they all conti<g ref="char:EOLhyphen"/>nued Priſoners till <hi>Wedneſday</hi> night after, dividing the Mini<g ref="char:EOLhyphen"/>ſters in a room a part from their People. I had almoſt for<g ref="char:EOLhyphen"/>gotten to tell you, that all this was not only without hearing any defence, but without ſo much as a Summoning, or any other notice of complaint (if any ever were) made againſt them.</p>
+            <p>Whilſt they were thus impriſoned, their entertainment was ſomewhat unuſual; about two and twenty of them (whereof one was a very aged man) had but one room for five daies and nights, wherein was but one bed: but the Priſo<g ref="char:EOLhyphen"/>ners ſpent the time better there than in ſleeping, as I have heard from many, <hi>viz.</hi> in praying, repeating of Sermons, and ſinging of Pſalms. <hi>Saturday</hi> about 7 or 8 of the Clock in the Evening, the Priſoners had got leave to meet and pray together, (for you muſt know that was a thing not to be en<g ref="char:EOLhyphen"/>dured without leave) and whilſt one of them was at Prayer with the reſt, the Soldiers opened the door, brake in and ſpake aloud to him that prayed, calling him Rogue, and bid<g ref="char:EOLhyphen"/>ding him make an end, and with other Soldiers, laid hands on him, and with great violence wholly interrupted him, and forced away the Priſoners.</p>
+            <p>Lords Day there was no publick Worſhip of God in the Town; in the Forenoon the Priſoners again deſired leave to hear their Miniſter in the Goal, which at firſt (it ſeems it was an unreaſonable requeſt) was denied; but afterwards Mr.
+<pb n="6" facs="tcp:61131:4"/>
+               <hi>Bampfield</hi> ſhould have leave to preach to the Priſoners, but none of the Town muſt come in (which yet many deſired, and ſome at other times purchaſed of the Soldiers, who were preſently after they had payed the fine plucked out again) Mr. <hi>Bampfield</hi> preaching in the Priſon, divers of the Town got into a backſide where they could hear his voice, which did belong to one <hi>Vincent,</hi> who threatens them all with Writs for the treſpaſs, though leave was firſt obtained of his Wife, and ten times more offered than he received dammage. You ſee how many ways are taken to vex and ruine ſuch as are quiet in the Land.</p>
+            <p>One evening, that the Soldiers alſo might ſhew a little de<g ref="char:EOLhyphen"/>votion, they would needs have <hi>Common-Prayer</hi> in the Goal amongſt themſelves, and when he that read it was come as far as <hi>Lighten our darkneſs,</hi> one of them thinking that to be part of a <hi>Pſalm,</hi> began to put it into a <hi>tune,</hi> which made the reſt no ſmall mirth. Lords day at night the Priſoners and Mi<g ref="char:EOLhyphen"/>niſters had leave upon requeſt to come together again, and Mr. <hi>Philips</hi> to preach; but whilſt he was in prayer before Sermon, the Soldiers came in violently and took away his Chair, diſtur<g ref="char:EOLhyphen"/>bed that Exerciſe alſo, ſo as they had no Sermon, &amp; to be ſhort (for it ſeems ſuch things may not be long) upon <hi>Wedneſday</hi> there came together 4 or 5 Deputy Lieutenants who called before them firſt Mr. <hi>Bampfield</hi> then Mr. <hi>Philips,</hi> &amp; afterward the reſt of the Priſoners, where Sir <hi>John Stroad</hi> of <hi>Parwham</hi> had the Chair (who as common fame ſays, formerly abjured the King,) &amp; probably was by the Gentlemen his Companions now preferred to this ſervice for his eminent Loyalty) Mr. <hi>Bampfield</hi> being examined, owned that he had been at prayer with (and was at the time of the interruption preaching to) his Family, and that his door being open divers of the Town came in and took their ſhare therein (and by the way obſerve, that during this inquiſition the door was ſhut, and none of Mr. <hi>Bampfields</hi> friends ſuffered to come, though the Law re<g ref="char:EOLhyphen"/>quire all Courts of juſtice to be open, and if it ſhould be o<g ref="char:EOLhyphen"/>therwiſe, the miſchiefs were almoſt infinite.) After ſeveral hearings and withdrawings, in all which the Deputy Lieu<g ref="char:EOLhyphen"/>tenants did not lay to his charge any one the leaſt expreſſion
+<pb n="7" facs="tcp:61131:4"/>in Prayer or Preaching (and yet me thinks the quarrel ſhould not be againſt theſe two) which was ſeditious, or any other way peccant againſt any of their Laws, which I think worthy of ſome obſervation. However, cauſe or no cauſe, the De<g ref="char:EOLhyphen"/>puty Lieutenants (for ſo I call them yet) by their Sir <hi>John</hi> a<g ref="char:EOLhyphen"/>foreſaid, declared this meeting tending to ſedition, and re<g ref="char:EOLhyphen"/>quired ſureties of Mr. <hi>Bampfield</hi> for his good behaviour and appearance at next Aſſiſes, which Mr. <hi>Bampfield</hi> gave accor<g ref="char:EOLhyphen"/>dingly, as afterward did his aſſiſtant Mr. <hi>Philips,</hi> and all the reſt of the Priſoners, and thus the cauſe was transferred from the Court Marſhal to the ordinary Courts of Juſtice, and yet the Priſoners were fain to pay not only fees to the Juſtices Clerks for their Recogniſances, but fees to the Provoſt Mar<g ref="char:EOLhyphen"/>ſhal of the Deputy Lieutenants, in the mean time the ſame individual perſons being both Juſtices and Deputy Lieute<g ref="char:EOLhyphen"/>nants, beſides what they paid for the Soldiers dyet and their waiting and their drinking, which were ſeveral particulars in the Bill, beſides that ſome of the Priſoners were ſo poor as to be judged not worth the fees demanded. I had almoſt o<g ref="char:EOLhyphen"/>mitted ſome paſſages during this impriſonment. Divers that brought victuals to their friends or relations, were not ſuffer<g ref="char:EOLhyphen"/>ed to deliver it, ſome alſo the Soldiers made themſelves mer<g ref="char:EOLhyphen"/>ry with, and took amongſt themſelves. Some had their ſuſte<g ref="char:EOLhyphen"/>nance brought in polls of hats, that ſo it might be concealed and not taken from them by the Soldiers. To one of the Pri<g ref="char:EOLhyphen"/>ſoners (who had been Soldier in the late war for King <hi>Charles</hi> the firſt) his ſiſter bringing victuals, had it violently ta<g ref="char:EOLhyphen"/>ken from her.</p>
+            <p>Some were impriſoned, who came only to viſit the Priſo<g ref="char:EOLhyphen"/>ners, another alſo of the Priſoners, (and Soldier of the Kings) had bail of a 1000 pounds offered for his liberty, that he might go home to his Wife, who then lay in at his Houſe a<g ref="char:EOLhyphen"/>bout a flight ſhot from the Goal, but (it ſeems this of<g ref="char:EOLhyphen"/>fence was very heinous) could not prevail, others that came to viſit the Priſoners were violently handled, one tumbled, another kicked down ſtairs by the Soldiers, (the charge of whoſe good attendance and ſervice all the while, came all in upon the Priſoners Bill) and whilſt the Priſoners were praying
+<pb n="8" facs="tcp:61131:5"/>the Soldiers were doing as you know ſome Soldiers uſe to do. Thus you ſee how kindly ſome of his Majeſty's Loyal Subjects are dealt with up and down the Country, which I the rather write, becauſe if he were throughly informed, probably ſome would be more moderate, for I cannot yet perſwade my ſelf, that theſe and ſuch like doings are any whit for his ſer<g ref="char:EOLhyphen"/>vice. The Lord wiſely over-rule that way to further (which the Devil and his Inſtruments take to hinder) his work.</p>
+            <closer>
+               <dateline>Sherburn <date>
+                     <hi>Septemb.</hi> the 25. 1662.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:61131:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
